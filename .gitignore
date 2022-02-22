@@ -1,3 +1,4 @@
 possible_resources/
 .Rhistory
 .DS_Store
+*.aux
