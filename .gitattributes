@@ -1,2 +1,5 @@
 *.Rmd linguist-detectable=true
+*.rmd linguist-detectable=true
 *.Rmd linguist-language=RMarkdown
+*.aux linguist-vendored
+figs/* linguist-vendored
